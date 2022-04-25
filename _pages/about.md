@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year MS student (2021 - present) in Computer Science at UCSD. Before that, I received bachelor degree in Electronic and Electrical Engineering from University of Manchester. I have interned at DGene (2020), working on object detection with [Minye Wu](https://wuminye.com/) at ShanghaiTech University.
+I am a first-year MS student (2021 - present) in Computer Science at UCSD. Before that, I received bachelor degree in Electronic and Electrical Engineering from University of Manchester. I have interned at [DGene](https://www.us1.dgene.com/) (2020), working on object detection with [Minye Wu](https://wuminye.com/) at ShanghaiTech University.
 
 I am generally interested in natural language processing and machine learning. My research covers self-learning, back-translation,and GAN. Recently I am spending more time on CycleGAN for Machine Translation.
 
