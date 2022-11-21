@@ -12,12 +12,9 @@ I am a second year MS student (2021 - present) in Computer Science at UCSD. I am
 
 ## Publications (Author names in alphabetical order)
 - Space-Efficient Interior Point Method, with applications to Linear Programming and Maximum Weight Bipartite Matching ([arxiv link](http://arxiv.org/abs/2009.06106))
-
-Sixue Liu, Zhao Song, Hengjie Zhang, Lichen Zhang and **Tianyi Zhou**
+  Sixue Liu, Zhao Song, Hengjie Zhang, Lichen Zhang and **Tianyi Zhou**
 - Faster Algorithm for Structured John Ellipsoid Computation ([arxiv link](???))
-
-
-Zhao Song, Xin Yang, Yuanyuan Yang and **Tianyi Zhou**
+  Zhao Song, Xin Yang, Yuanyuan Yang and **Tianyi Zhou**
 
 <!-- A data-driven personal website
 ======
