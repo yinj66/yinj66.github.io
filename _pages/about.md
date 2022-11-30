@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year MS student (2021 - present) in Computer Science at UCSD. I am fortunate to be advised by Professor Pengtao Xie. Before that, I received bachelor degree in Electronic and Electrical Engineering from University of Manchester, advised by Professor Wuliang Yin. I am broadly interested in theoretical computer science. In particular, I am interested in convex optimization and deep learning. My research also spans natural language processing.
+I am a second year MS student (2021 - present) in Computer Science at UCSD. I am fortunate to be advised by Professor Pengtao Xie. Before that, I received bachelor degree in Electronic and Electrical Engineering from University of Manchester, advised by Professor Wuliang Yin. I am broadly interested in theoretical computer science. In particular, I am interested in optimization, deep learning and streaming algorithms. 
 
 ## Papers (Author names in alphabetical order)
 - Space-Efficient Interior Point Method, with applications to Linear Programming and Maximum Weight Bipartite Matching ([arxiv link](http://arxiv.org/abs/2009.06106)).<br>
