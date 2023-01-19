@@ -15,6 +15,8 @@ I am a second year MS student (2021 - present) in Computer Science at UCSD. I am
   Sixue Liu, Zhao Song, Hengjie Zhang, Lichen Zhang and **Tianyi Zhou**
 - Faster Algorithm for Structured John Ellipsoid Computation ([arxiv link](https://arxiv.org/abs/2211.14407)).<br>
   Zhao Song, Xin Yang, Yuanyuan Yang and **Tianyi Zhou**
+- Faster Sinkhorn's Algorithm with Small Treewidth ([arxiv link](https://arxiv.org/abs/2301.06741)).<br>
+  Zhao Song and **Tianyi Zhou**
 
 <!-- A data-driven personal website
 ======
