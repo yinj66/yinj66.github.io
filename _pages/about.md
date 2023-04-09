@@ -13,6 +13,8 @@ I am a second year MS student (2021 - present) in Computer Science at UCSD. I am
 ## Papers (Author names in alphabetical order)
 - Space-Efficient Interior Point Method, with applications to Linear Programming and Maximum Weight Bipartite Matching ([arxiv link](http://arxiv.org/abs/2009.06106)).<br>
   Sixue Liu, Zhao Song, Hengjie Zhang, Lichen Zhang and **Tianyi Zhou**
+- Algorithm and Hardness for Dynamic Attention Maintenance in Large Language Models ([arxiv link](https://arxiv.org/abs/2304.02207)).<br>
+  Jan van den Brand, Zhao Song and **Tianyi Zhou**
 - Faster Algorithm for Structured John Ellipsoid Computation ([arxiv link](https://arxiv.org/abs/2211.14407)).<br>
   Zhao Song, Xin Yang, Yuanyuan Yang and **Tianyi Zhou**
 - Faster Sinkhorn's Algorithm with Small Treewidth ([arxiv link](https://arxiv.org/abs/2301.06741)).<br>
