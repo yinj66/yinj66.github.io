@@ -10,7 +10,7 @@ redirect_from:
 
 I am a second year MS student (2021 - present) in Computer Science at UCSD. I am fortunate to be advised by Professor Pengtao Xie. Before that, I received bachelor degree in Electronic and Electrical Engineering from University of Manchester, advised by Professor Wuliang Yin. I am broadly interested in theoretical computer science. In particular, I am interested in optimization, deep learning and streaming algorithms. 
 
-## Papers (Author names in alphabetical order)
+## Theoretical Computer Science Papers (Author names in alphabetical order)
 - Space-Efficient Interior Point Method, with applications to Linear Programming and Maximum Weight Bipartite Matching ([arxiv link](http://arxiv.org/abs/2009.06106)).<br>
   Sixue Liu, Zhao Song, Hengjie Zhang, Lichen Zhang and **Tianyi Zhou**<br>
   ICALP, 2023.
@@ -22,6 +22,11 @@ I am a second year MS student (2021 - present) in Computer Science at UCSD. I am
   Shuai Li, Zhao Song, Yu Xia, Tong Yu, and **Tianyi Zhou**
 - Faster Sinkhorn's Algorithm with Small Treewidth ([arxiv link](https://arxiv.org/abs/2301.06741)).<br>
   Zhao Song and **Tianyi Zhou**
+
+## Machine Learning Papers 
+- Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time <br>
+  Zichang Liu, Jue Wang, Tri Dao, **Tianyi Zhou**, Binhang Yuan, Zhao Song, Anshumali Shrivastava, Ce Zhang, Yuandong Tian, Christopher Ré, and Beidi Chen<br>
+  ICML 2023 Selected as Oral.
 
 <!-- A data-driven personal website
 ======
