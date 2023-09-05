@@ -10,7 +10,8 @@ redirect_from:
 
 I'm a first year PhD student in Computer Science at University of Southern California (USC). Before that, I received master degree in Computer Science from University of California San Diego. I am broadly interested in natural language processing and theoretical computer science.
 
-## Theoretical Computer Science Papers (Author names in alphabetical order)
+##  Papers 
+# Theoretical Computer Science (Author names in alphabetical order)
 - Space-Efficient Interior Point Method, with applications to Linear Programming and Maximum Weight Bipartite Matching ([arxiv link](http://arxiv.org/abs/2009.06106)).<br>
   Sixue Liu, Zhao Song, Hengjie Zhang, Lichen Zhang and **Tianyi Zhou**<br>
   ICALP, 2023.
@@ -20,10 +21,8 @@ I'm a first year PhD student in Computer Science at University of Southern Calif
   Zhao Song, Xin Yang, Yuanyuan Yang and **Tianyi Zhou**
 - The Closeness of In-Context Learning and Weight Shifting for Softmax Regression ([arxiv link](https://arxiv.org/abs/2304.13276)).<br>
   Shuai Li, Zhao Song, Yu Xia, Tong Yu, and **Tianyi Zhou**
-- Faster Sinkhorn's Algorithm with Small Treewidth ([arxiv link](https://arxiv.org/abs/2301.06741)).<br>
-  Zhao Song and **Tianyi Zhou**
 
-## Machine Learning Papers 
+## Machine Learning
 - Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time <br>
   Zichang Liu, Jue Wang, Tri Dao, **Tianyi Zhou**, Binhang Yuan, Zhao Song, Anshumali Shrivastava, Ce Zhang, Yuandong Tian, Christopher Ré, and Beidi Chen<br>
   ICML 2023 Selected as Oral.
