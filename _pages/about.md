@@ -10,7 +10,7 @@ redirect_from:
 
 I'm a first year PhD student in Computer Science at University of Southern California (USC). Before that, I received master degree in Computer Science from University of California San Diego. I am broadly interested in natural language processing and theoretical computer science.
 
-#  Papers 
+#  Research
 ## Theoretical Computer Science (Author names in alphabetical order)
 - Space-Efficient Interior Point Method, with applications to Linear Programming and Maximum Weight Bipartite Matching ([arxiv link](http://arxiv.org/abs/2009.06106)).<br>
   Sixue Liu, Zhao Song, Hengjie Zhang, Lichen Zhang and **Tianyi Zhou**<br>
