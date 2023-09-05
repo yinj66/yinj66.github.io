@@ -82,12 +82,12 @@ yandex_site_verification :
 author:
   name             : "Tianyi Zhou"
   avatar           : "profile.png"
-  bio              : "MS CSE UCSD"
-  location         : "CA"
+  bio              : "PhD CSE USC"
+  location         : "Los Angeles, CA"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=C4v62F0AAAAJ"
-  email            : 't8zhou@ucsd.edu'
+  email            : 'tzhou029@usc.edu'
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
