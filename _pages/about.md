@@ -15,6 +15,9 @@ I'm a first year PhD student in Computer Science at University of Southern Calif
 - Space-Efficient Interior Point Method, with applications to Linear Programming and Maximum Weight Bipartite Matching ([arxiv link](http://arxiv.org/abs/2009.06106)).<br>
   Sixue Liu, Zhao Song, Hengjie Zhang, Lichen Zhang and **Tianyi Zhou**<br>
   ICALP, 2023.
+- Fast Heavy Inner Product Identification Between Weights and Inputs in Neural Network Training.<br>
+  Lianke Qin, Saayan Mitra, Zhao Song, Yuanyuan Yang and **Tianyi Zhou**<br>
+  IEEE Big Data, 2023.
 - Algorithm and Hardness for Dynamic Attention Maintenance in Large Language Models ([arxiv link](https://arxiv.org/abs/2304.02207)).<br>
   Jan van den Brand, Zhao Song and **Tianyi Zhou**
 - Faster Algorithm for Structured John Ellipsoid Computation ([arxiv link](https://arxiv.org/abs/2211.14407)).<br>
@@ -26,6 +29,10 @@ I'm a first year PhD student in Computer Science at University of Southern Calif
 - Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time <br>
   Zichang Liu, Jue Wang, Tri Dao, **Tianyi Zhou**, Binhang Yuan, Zhao Song, Anshumali Shrivastava, Ce Zhang, Yuandong Tian, Christopher Ré, and Beidi Chen<br>
   ICML 2023 Selected as Oral.
+
+- H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models <br>
+  Zhenyu Zhang, Ying Sheng, **Tianyi Zhou**, Tianlong Chen, Lianmin Zheng, Ruisi Cai, Zhao Song, Yuandong Tian, Christopher Ré, Clark Barrett, Zhangyang Wang and Beidi Chen <br>
+  NeurIPS 2023.
 
 <!-- A data-driven personal website
 ======
