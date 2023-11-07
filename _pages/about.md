@@ -26,11 +26,11 @@ I'm a first year PhD student in Computer Science at University of Southern Calif
   Shuai Li, Zhao Song, Yu Xia, Tong Yu, and **Tianyi Zhou**
 
 ## Machine Learning
-- Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time <br>
+- Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time ([arxiv link](https://arxiv.org/abs/2310.17157)).<br>
   Zichang Liu, Jue Wang, Tri Dao, **Tianyi Zhou**, Binhang Yuan, Zhao Song, Anshumali Shrivastava, Ce Zhang, Yuandong Tian, Christopher Ré, and Beidi Chen<br>
   ICML 2023 Selected as Oral.
 
-- H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models <br>
+- H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models ([arxiv link](https://arxiv.org/abs/2306.14048)).<br>
   Zhenyu Zhang, Ying Sheng, **Tianyi Zhou**, Tianlong Chen, Lianmin Zheng, Ruisi Cai, Zhao Song, Yuandong Tian, Christopher Ré, Clark Barrett, Zhangyang Wang and Beidi Chen <br>
   NeurIPS 2023.
 
