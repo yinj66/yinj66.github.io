@@ -8,31 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first year PhD student in Computer Science at University of Southern California (USC). Before that, I received master degree in Computer Science from University of California San Diego. I am broadly interested in natural language processing and theoretical computer science.
+I am a fourth-year BA/MA student in Mathematics and a BA in Philosophy and Religion at Boston University (BU). My research interests include fractal geometry, theoretical computer science, and theoretical machine learning.
+
+
 
 #  Research
-## Theoretical Computer Science (Author names in alphabetical order)
-- A Nearly-Optimal Bound for Fast Regression with $\ell_\infty$ Guarantee ([arxiv link](http://arxiv.org/abs/2009.06106)).<br>
-  Sixue Liu, Zhao Song, Hengjie Zhang, Lichen Zhang and **Tianyi Zhou**<br>
-  ICALP, 2023.
+## Accepted Papers (Author names in alphabetical order)
+
 - Fast Heavy Inner Product Identification Between Weights and Inputs in Neural Network Training ([arxiv link](https://kevinzhoutianyi.github.io/files/qmsyz_bigdata2023.pdf)).<br>
   Lianke Qin, Saayan Mitra, Zhao Song, Yuanyuan Yang and **Tianyi Zhou**<br>
   IEEE Big Data, 2023.
-- Algorithm and Hardness for Dynamic Attention Maintenance in Large Language Models ([arxiv link](https://arxiv.org/abs/2304.02207)).<br>
-  Jan van den Brand, Zhao Song and **Tianyi Zhou**
-- Faster Algorithm for Structured John Ellipsoid Computation ([arxiv link](https://arxiv.org/abs/2211.14407)).<br>
-  Zhao Song, Xin Yang, Yuanyuan Yang and **Tianyi Zhou**
-- The Closeness of In-Context Learning and Weight Shifting for Softmax Regression ([arxiv link](https://arxiv.org/abs/2304.13276)).<br>
-  Shuai Li, Zhao Song, Yu Xia, Tong Yu, and **Tianyi Zhou**
 
-## Machine Learning
-- Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time ([arxiv link](https://arxiv.org/abs/2310.17157)).<br>
-  Zichang Liu, Jue Wang, Tri Dao, **Tianyi Zhou**, Binhang Yuan, Zhao Song, Anshumali Shrivastava, Ce Zhang, Yuandong Tian, Christopher Ré, and Beidi Chen<br>
-  ICML 2023 Selected as Oral.
+  
+- Low Rank Matrix Completion via Robust Alternating Minimization in Nearly Linear Time ([Article link](https://openreview.net/pdf?id=N0gT4A0jNV)).<br>
+  Yuzhou Gu, Zhao Song, **Junze Yin**, and Lichen Zhang<br>
+  ICLR 2024
+- Fast Dynamic Sampling for Determinantal Point Processes.<br>
+  Zhao Song, **Junze Yin**, Lichen Zhang, and Ruizhe Zhang<br>
+  AISTATS 2024
+- Solving Attention Kernel Regression Problem via Pre-conditioner ([Article link](https://arxiv.org/pdf/2308.14304.pdf)).<br>
+  Zhao Song, **Junze Yin**, and Lichen Zhang<br>
+  AISTATS 2024
+- Dynamical fractal: Theory and case study ([Article link](https://doi.org/10.1016/j.chaos.2023.114190)).<br>
+  **Junze Yin**<br>
+  Chaos, Solitons & Fractals Volume 176, November 2023, 114190.
+- A Nearly-Optimal Bound for Fast Regression with $\ell_\infty$ Guarantee ([Article link](https://proceedings.mlr.press/v202/song23j/song23j.pdf)).<br>
+  Zhao Song, Mingquan Ye, **Junze Yin**, and Lichen Zhang<br>
+  ICML, 2023.
 
-- H2O: Heavy-Hitter Oracle for Efficient Generative Inference of Large Language Models ([arxiv link](https://arxiv.org/abs/2306.14048)).<br>
-  Zhenyu Zhang, Ying Sheng, **Tianyi Zhou**, Tianlong Chen, Lianmin Zheng, Ruisi Cai, Zhao Song, Yuandong Tian, Christopher Ré, Clark Barrett, Zhangyang Wang and Beidi Chen <br>
-  NeurIPS 2023.
+
 
 <!-- A data-driven personal website
 ======
