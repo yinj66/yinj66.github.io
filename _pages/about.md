@@ -14,16 +14,16 @@ I am a fourth-year B.A./M.A. in Mathematics and B.A. in Philosophy and Religion 
 
 #  Research
 ## Accepted Papers (Author names in alphabetical order)
-  
-- Low Rank Matrix Completion via Robust Alternating Minimization in Nearly Linear Time ([Article link](https://openreview.net/pdf?id=N0gT4A0jNV)).<br>
-  Yuzhou Gu, Zhao Song, **Junze Yin**, and Lichen Zhang<br>
-  ICLR 2024
+
 - Fast Dynamic Sampling for Determinantal Point Processes.<br>
   Zhao Song, **Junze Yin**, Lichen Zhang, and Ruizhe Zhang<br>
   AISTATS 2024
 - Solving Attention Kernel Regression Problem via Pre-conditioner ([Article link](https://arxiv.org/pdf/2308.14304.pdf)).<br>
   Zhao Song, **Junze Yin**, and Lichen Zhang<br>
   AISTATS 2024
+- Low Rank Matrix Completion via Robust Alternating Minimization in Nearly Linear Time ([Article link](https://openreview.net/pdf?id=N0gT4A0jNV)).<br>
+  Yuzhou Gu, Zhao Song, **Junze Yin**, and Lichen Zhang<br>
+  ICLR 2024
 - Dynamical fractal: Theory and case study ([Article link](https://doi.org/10.1016/j.chaos.2023.114190)).<br>
   **Junze Yin**<br>
   Chaos, Solitons & Fractals Volume 176, November 2023, 114190.
