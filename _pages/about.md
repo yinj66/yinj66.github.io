@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year BA/MA student in Mathematics and a BA in Philosophy and Religion at Boston University (BU). My research interests include fractal geometry, theoretical computer science, and theoretical machine learning.
+I am a fourth-year B.A./M.A. in Mathematics and B.A. in Philosophy and Religion student at Boston University (BU). My research interests include fractal geometry, theoretical computer science, and theoretical machine learning.
 
 
 
