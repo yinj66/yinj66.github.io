@@ -14,11 +14,6 @@ I am a fourth-year BA/MA student in Mathematics and a BA in Philosophy and Relig
 
 #  Research
 ## Accepted Papers (Author names in alphabetical order)
-
-- Fast Heavy Inner Product Identification Between Weights and Inputs in Neural Network Training ([arxiv link](https://kevinzhoutianyi.github.io/files/qmsyz_bigdata2023.pdf)).<br>
-  Lianke Qin, Saayan Mitra, Zhao Song, Yuanyuan Yang and **Tianyi Zhou**<br>
-  IEEE Big Data, 2023.
-
   
 - Low Rank Matrix Completion via Robust Alternating Minimization in Nearly Linear Time ([Article link](https://openreview.net/pdf?id=N0gT4A0jNV)).<br>
   Yuzhou Gu, Zhao Song, **Junze Yin**, and Lichen Zhang<br>
