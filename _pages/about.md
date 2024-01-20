@@ -12,7 +12,7 @@ I'm a first year PhD student in Computer Science at University of Southern Calif
 
 #  Research
 ## Theoretical Computer Science (Author names in alphabetical order)
-- Space-Efficient Interior Point Method, with applications to Linear Programming and Maximum Weight Bipartite Matching ([arxiv link](http://arxiv.org/abs/2009.06106)).<br>
+- A Nearly-Optimal Bound for Fast Regression with $\ell_\infty$ Guarantee ([arxiv link](http://arxiv.org/abs/2009.06106)).<br>
   Sixue Liu, Zhao Song, Hengjie Zhang, Lichen Zhang and **Tianyi Zhou**<br>
   ICALP, 2023.
 - Fast Heavy Inner Product Identification Between Weights and Inputs in Neural Network Training ([arxiv link](https://kevinzhoutianyi.github.io/files/qmsyz_bigdata2023.pdf)).<br>
