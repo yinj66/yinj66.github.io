@@ -30,8 +30,8 @@ My name is Junze Yin. I am a first-year Ph.D. student at Rice University, fortun
   ICLR 2024
 - Dynamical fractal: Theory and case study ([Article link](https://doi.org/10.1016/j.chaos.2023.114190)).<br>
   **Junze Yin**<br>
-  Chaos, Solitons & Fractals Volume 176, November 2023, 114190.
-  **Oral Presentation**: JMM 2022, AMS Special Session on Geometry in the Mathematics of Data Science
+  Chaos, Solitons & Fractals Volume 176, November 2023, 114190.<br>
+  Oral Presentation: JMM 2022, AMS Special Session on Geometry in the Mathematics of Data Science<br>
 - A Nearly-Optimal Bound for Fast Regression with $\ell_\infty$ Guarantee ([Article link](https://proceedings.mlr.press/v202/song23j/song23j.pdf)).<br>
   Zhao Song, Mingquan Ye, **Junze Yin**, and Lichen Zhang<br>
   ICML, 2023.
