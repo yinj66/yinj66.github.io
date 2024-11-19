@@ -12,14 +12,12 @@ My name is Junze Yin. I am a first-year Ph.D. student at Rice University, fortun
 
 ## [CV](../files/Junze_Yin_2024_PhD_CV_PS.pdf)
 
-
-
 # Research
 
 ## Accepted Papers (Author names in alphabetical order)
 
-- Revisiting Quantum Algorithms for Linear Regressions: Quadratic Speedups without Data-Dependent Parameters([Article link](https://arxiv.org/pdf/2311.14823)).<br>
-  Zhao Song, **Junze Yin**, Ruizhe Zhang<br>
+- Revisiting Quantum Algorithms for Linear Regressions: Quadratic Speedups without Data-Dependent Parameters ([Article link](https://arxiv.org/pdf/2311.14823)).<br>
+  Zhao Song, **Junze Yin**, and Ruizhe Zhang<br>
   QIP 2025
 - Fast Dynamic Sampling for Determinantal Point Processes.<br>
   Zhao Song, **Junze Yin**, Lichen Zhang, and Ruizhe Zhang<br>
