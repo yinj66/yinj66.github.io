@@ -19,7 +19,7 @@ My name is Junze Yin. I am a first-year Ph.D. student at Rice University, fortun
 - Revisiting Quantum Algorithms for Linear Regressions: Quadratic Speedups without Data-Dependent Parameters ([Article link](https://arxiv.org/pdf/2311.14823)).<br>
   Zhao Song, **Junze Yin**, and Ruizhe Zhang<br>
   QIP 2025
-- Fast Dynamic Sampling for Determinantal Point Processes.<br>
+- Fast Dynamic Sampling for Determinantal Point Processes ([Article link](https://proceedings.mlr.press/v238/song24b/song24b.pdf)).<br>
   Zhao Song, **Junze Yin**, Lichen Zhang, and Ruizhe Zhang<br>
   AISTATS 2024
 - Solving Attention Kernel Regression Problem via Pre-conditioner ([Article link](https://arxiv.org/pdf/2308.14304.pdf)).<br>
