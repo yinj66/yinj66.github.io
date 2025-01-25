@@ -16,6 +16,12 @@ My name is Junze Yin. I am a first-year Ph.D. student at Rice University, fortun
 
 ## Accepted Papers (Author names in alphabetical order)
 
+- Efficient Alternating Minimization with Applications to Weighted Low Rank Approximation ([Article link](https://arxiv.org/pdf/2306.04169)).<br>
+  Zhao Song, Mingquan Ye, Junze Yin, and Lichen Zhang<br>
+  ICLR 2025
+- An Iterative Algorithm for Rescaled Hyperbolic Functions Regression ([Article link](https://arxiv.org/pdf/2305.00660)).<br>
+  Yeqi Gao, Zhao Song, and Junze Yin<br>
+  AISTATS 2025
 - Revisiting Quantum Algorithms for Linear Regressions: Quadratic Speedups without Data-Dependent Parameters ([Article link](https://arxiv.org/pdf/2311.14823)).<br>
   Zhao Song, **Junze Yin**, and Ruizhe Zhang<br>
   QIP 2025
