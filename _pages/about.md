@@ -16,7 +16,7 @@ My name is Junze Yin. I am a first-year Ph.D. student at Rice University, fortun
 
 ## Accepted Papers (Author names in alphabetical order)
 
-- Fast and Efficient Matching Algorithm with Deadline Instances([Article link](https://arxiv.org/pdf/2305.08353)).<br>
+- Fast and Efficient Matching Algorithm with Deadline Instances ([Article link](https://arxiv.org/pdf/2305.08353)).<br>
   Zhao Song, Weixin Wang, Chenbo Yin, and **Junze Yin**<br>
   CPAL 2025
 - Efficient Alternating Minimization with Applications to Weighted Low Rank Approximation ([Article link](https://arxiv.org/pdf/2306.04169)).<br>
