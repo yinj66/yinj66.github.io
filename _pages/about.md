@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Junze Yin. I am a first-year Ph.D. student at Rice University, fortunate to be advised by Professor [Maryam Aliakbarpour](https://maryamaliakbarpour.com/). I earned my M.A. and B.A. in Mathematics from Boston University, where I had the privilege of being advised by Professor Mark Kon. My research interests lie at the intersection of theoretical computer science and machine learning. Specifically, I am interested in numerical linear algebra, theoretical machine learning, large language models, and fractal geometry.
+My name is Junze Yin. I am a second-year Ph.D. student at Rice University, fortunate to be advised by Professor [Maryam Aliakbarpour](https://maryamaliakbarpour.com/). I earned my M.A. and B.A. in Mathematics from Boston University, where I had the privilege of being advised by Professor Mark Kon. My research interests lie at the intersection of theoretical computer science and machine learning. Specifically, I am interested in numerical linear algebra, theoretical machine learning, large language models, and robust statistics.
 
 ## [CV](../files/Junze_Yin_2024_PhD_CV_PS.pdf)
 
