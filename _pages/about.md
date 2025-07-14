@@ -16,8 +16,26 @@ My name is Junze Yin. I am a first-year Ph.D. student at Rice University, fortun
 
 <!-- ICML awaiting for arxiv -->
 
+## Accepted Papers
+
+- CoVE: Compressed Vocabulary Expansion Makes Better LLM-based Recommender Systems ([Article link](https://arxiv.org/pdf/2506.19993)).<br>
+  Haochen Zhang, Tianyi Zhang, **Junze Yin**, Oren Gal, Anshumali Shrivastava, Vladimir Braverman<br>
+  ACL 2025 Findings
+
 ## Accepted Papers (Author names in alphabetical order)
 
+- Binary Hypothesis Testing for Softmax Models and Leverage Score Models. ([Article link](https://arxiv.org/pdf/2405.06003)).<br>
+  Yuzhou Gu, Zhao Song, and **Junze Yin**<br>
+  ICML 2025
+- The Expressibility of Polynomial based Attention Scheme. ([Article link](https://arxiv.org/pdf/2310.20051)).<br>
+  Zhao Song, Chongxi Wang, Guangyi Xu, and **Junze Yin**<br>
+  KDD 2025
+- Dynamic maintenance of kernel density estimation data structure: From practice to theory. ([Article link](https://arxiv.org/pdf/2208.03915)).<br>
+  Jiehao Liang, Zhao Song, Zhaozhuo Xu, **Junze Yin**, and Danyang Zhuo<br>
+  UAI 2025
+- A fast optimization view: reformulating single layer attention in LLM based on tensor and svm trick, and solving it in matrix multiplication time. ([Article link](https://arxiv.org/pdf/2309.07418.pdf)).<br>
+  Yeqi Gao, Zhao Song, Weixin Wang, and **Junze Yin**<br>
+  UAI 2025
 - Fast and Efficient Matching Algorithm with Deadline Instances ([Article link](https://arxiv.org/pdf/2305.08353)).<br>
   Zhao Song, Weixin Wang, Chenbo Yin, and **Junze Yin**<br>
   CPAL 2025
