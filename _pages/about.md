@@ -16,12 +16,6 @@ My name is Junze Yin. I am a second-year Ph.D. student at Rice University, fortu
 
 <!-- ICML awaiting for arxiv -->
 
-## Accepted Papers
-
-- CoVE: Compressed Vocabulary Expansion Makes Better LLM-based Recommender Systems ([Article link](https://arxiv.org/pdf/2506.19993)).<br>
-  Haochen Zhang, Tianyi Zhang, **Junze Yin**, Oren Gal, Anshumali Shrivastava, Vladimir Braverman<br>
-  ACL 2025 Findings
-
 ## Accepted Papers (Author names in alphabetical order)
 
 - Binary Hypothesis Testing for Softmax Models and Leverage Score Models. ([Article link](https://arxiv.org/pdf/2405.06003)).<br>
@@ -64,3 +58,14 @@ My name is Junze Yin. I am a second-year Ph.D. student at Rice University, fortu
 - A Nearly-Optimal Bound for Fast Regression with $\ell_\infty$ Guarantee ([Article link](https://proceedings.mlr.press/v202/song23j/song23j.pdf)).<br>
   Zhao Song, Mingquan Ye, **Junze Yin**, and Lichen Zhang<br>
   ICML, 2023.
+
+---
+
+- Breaking the Frozen Subspace: Importance Sampling for Low-Rank Optimization in LLM Pretraining ([Article link](https://arxiv.org/pdf/2502.05790)). <br>
+  Haochen Zhang, **Junze Yin**, Guanchu Wang, Zirui Liu, Lin F. Yang, Tianyi Zhang, Anshumali Shrivastava, and Vladimir
+  Braverman. <br>
+  NeurIPS 2025
+
+- CoVE: Compressed Vocabulary Expansion Makes Better LLM-based Recommender Systems ([Article link](https://arxiv.org/pdf/2506.19993)).<br>
+  Haochen Zhang, Tianyi Zhang, **Junze Yin**, Oren Gal, Anshumali Shrivastava, and Vladimir Braverman<br>
+  ACL 2025 Findings
