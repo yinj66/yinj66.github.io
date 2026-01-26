@@ -18,6 +18,10 @@ My name is Junze Yin. I am a second-year Ph.D. student at Rice University, fortu
 
 ## Accepted Papers (Author names in alphabetical order)
 
+- Support Basis: Fast Attention Beyond Bounded Entries. ([Article link](https://arxiv.org/pdf/2510.01643))<br>
+  Maryam Aliakbarpour, Vladimir Braverman, **Junze Yin**, Haochen Zhang<br>
+  AISTATS 2026 (**SPOTLIGHT (Top 3%)**)
+
 - Binary Hypothesis Testing for Softmax Models and Leverage Score Models. ([Article link](https://arxiv.org/pdf/2405.06003)).<br>
   Yuzhou Gu, Zhao Song, and **Junze Yin**<br>
   ICML 2025
