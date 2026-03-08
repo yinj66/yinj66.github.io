@@ -10,7 +10,7 @@ redirect_from:
 
 My name is Junze Yin. I am a second-year Ph.D. student at Rice University, fortunate to be advised by Professor [Maryam Aliakbarpour](https://maryamaliakbarpour.com/). I earned my M.A. and B.A. in Mathematics from Boston University, where I had the privilege of being advised by Professor Mark Kon. My research interests lie at the intersection of theoretical computer science and machine learning. Specifically, I am interested in numerical linear algebra, theoretical machine learning, large language models, and robust statistics.
 
-## [CV](../files/Junze_Yin_2024_PhD_CV_PS.pdf)
+## [CV](/files/Junze_CV.pdf)
 
 # Research
 
@@ -20,7 +20,7 @@ My name is Junze Yin. I am a second-year Ph.D. student at Rice University, fortu
 
 - Support Basis: Fast Attention Beyond Bounded Entries. ([Article link](https://arxiv.org/pdf/2510.01643))<br>
   Maryam Aliakbarpour, Vladimir Braverman, **Junze Yin**, Haochen Zhang<br>
-  AISTATS 2026 **SPOTLIGHT** (Top 10.7% of Accepted Papers)
+  AISTATS 2026 **SPOTLIGHT** (Top 3%)
 
 - Binary Hypothesis Testing for Softmax Models and Leverage Score Models. ([Article link](https://arxiv.org/pdf/2405.06003)).<br>
   Yuzhou Gu, Zhao Song, and **Junze Yin**<br>
